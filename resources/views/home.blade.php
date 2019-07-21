@@ -4,23 +4,21 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="card-columns">
-                {{-- <div class="card-header">Dashboard</div> --}}
+                {{-- <div class="card-header">Family hehe</div> --}}
                 @for($i = 0; $i < 3; $i++)
-                <div class="card" style="width: 20;rem;border-radius:5% ;background-color:#2c2c2ccc;">
+                <div class="card" style="width: 20rem;">
  
-                    <img class="card-img-top" src="https://image.cnbcfm.com/api/v1/image/105499054-1539191047718gettyimages-3123864.jpeg?v=1539191089&w=1400&h=950" alt="the image alt text here">
+                    <img class="card-img-top" src="https://i.pinimg.com/originals/cd/b8/af/cdb8af2018a02b7e71157c73327a2b1f.jpg" alt="the image alt text here">
                    
                     <div class="card-body">
                    
-                      <h5  style="color:white">Bootstrap 4</h5>
+                      <h5 class="card-title text-primary">Howdy how!</h5>
                    
-                      <p  style="color:#e9e3d4">The great way to build mobile first web applications. Create responsive websites by built-in capabilities by utlizing
-                   
-                      variety of components with a powerful grid system.
+                      <p class="card-text">Country roads take me home!
                    
                       </p>
                    
-                      <a href="#" class="btn btn-outline-dark">Learn more</a>
+                      <a href="#" class="btn btn-outline-dark">Family tree!</a>
                    
                     </div>
                    

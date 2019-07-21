@@ -14,9 +14,7 @@
                    
                       <h5 class="card-title text-primary">Bootstrap 4</h5>
                    
-                      <p class="card-text">The great way to build mobile first web applications. Create responsive websites by built-in capabilities by utlizing
-                   
-                      variety of components with a powerful grid system.
+                      <p class="card-text">Country roads take me home!
                    
                       </p>
                    
