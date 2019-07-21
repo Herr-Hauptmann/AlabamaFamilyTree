@@ -40,7 +40,7 @@
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
                         <li class="nav-item">
-                                <a class ="nav-link" href="https://en.wikipedia.org/wiki/Alabama">{{ __('About') }}</a>
+                                <a class ="nav-link" href="about.html">{{ __('About') }}</a>
                             </li>
                         @guest
                             <li class="nav-item">
